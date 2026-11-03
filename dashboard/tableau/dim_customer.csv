@@ -1,0 +1,794 @@
+﻿Customer ID,Customer Name,Segment,RFM_Cluster,R,F,M
+AA-10315,Alex Avila,Consumer,Giá trị cao – nguy cơ rời bỏ,2,2,5
+AA-10375,Allen Armold,Consumer,Khách trung thành (VIP),5,5,2
+AA-10480,Andrew Allen,Consumer,Khách ngủ đông,1,1,3
+AA-10645,Anna Andreadi,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,5
+AB-10015,Aaron Bergman,Consumer,Khách ngủ đông,1,1,1
+AB-10060,Adam Bellavance,Home Office,Giá trị cao – nguy cơ rời bỏ,3,4,5
+AB-10105,Adrian Barton,Consumer,Khách trung thành (VIP),4,5,5
+AB-10150,Aimee Bixby,Consumer,Khách mới / tiềm năng,4,2,2
+AB-10165,Alan Barnes,Consumer,Khách mới / tiềm năng,5,4,2
+AB-10255,Alejandro Ballentine,Home Office,Giá trị cao – nguy cơ rời bỏ,2,5,1
+AB-10600,Ann Blume,Corporate,Khách mới / tiềm năng,4,1,2
+AC-10420,Alyssa Crouse,Corporate,Khách ngủ đông,1,1,1
+AC-10450,Amy Cox,Consumer,Khách trung thành (VIP),5,3,5
+AC-10615,Ann Chong,Corporate,Khách mới / tiềm năng,5,2,3
+AC-10660,Anna Chung,Consumer,Khách ngủ đông,1,2,1
+AD-10180,Alan Dominguez,Home Office,Khách trung thành (VIP),4,4,5
+AF-10870,Art Ferguson,Consumer,Khách mới / tiềm năng,4,3,3
+AF-10885,Art Foster,Consumer,Khách ngủ đông,1,1,1
+AG-10270,Alejandro Grove,Consumer,Khách ngủ đông,1,2,3
+AG-10300,Aleksandra Gannaway,Corporate,Khách ngủ đông,2,1,1
+AG-10330,Alex Grayson,Consumer,Khách mới / tiềm năng,5,2,1
+AG-10390,Allen Goldenen,Consumer,Khách ngủ đông,2,2,1
+AG-10495,Andrew Gjertsen,Corporate,Giá trị cao – nguy cơ rời bỏ,3,4,3
+AG-10525,Andy Gerbode,Corporate,Khách ngủ đông,1,1,2
+AG-10675,Anna Gayman,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,4
+AG-10765,Anthony Garverick,Home Office,Khách ngủ đông,3,1,1
+AG-10900,Arthur Gainer,Consumer,Khách trung thành (VIP),3,5,5
+AH-10030,Aaron Hawkins,Corporate,Khách mới / tiềm năng,5,3,3
+AH-10075,Adam Hart,Corporate,Khách trung thành (VIP),4,5,4
+AH-10120,Adrian Hane,Home Office,Khách mới / tiềm năng,3,3,2
+AH-10195,Alan Haines,Corporate,Khách ngủ đông,3,1,2
+AH-10210,Alan Hwang,Consumer,Khách trung thành (VIP),5,5,5
+AH-10465,Amy Hunt,Consumer,Khách ngủ đông,1,2,3
+AH-10585,Angele Hood,Consumer,Khách mới / tiềm năng,5,1,1
+AH-10690,Anna Häberlin,Corporate,Giá trị cao – nguy cơ rời bỏ,1,5,5
+AI-10855,Arianne Irving,Consumer,Khách trung thành (VIP),5,5,5
+AJ-10780,Anthony Jacobs,Corporate,Giá trị cao – nguy cơ rời bỏ,3,3,5
+AJ-10795,Anthony Johnson,Corporate,Giá trị cao – nguy cơ rời bỏ,2,3,5
+AJ-10945,Ashley Jarboe,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,3
+AJ-10960,Astrea Jones,Consumer,Khách ngủ đông,3,1,1
+AM-10360,Alice McCarthy,Corporate,Khách mới / tiềm năng,4,2,1
+AM-10705,Anne McFarland,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,5
+AO-10810,Anthony O'Donnell,Corporate,Khách ngủ đông,1,1,1
+AP-10720,Anne Pryor,Home Office,Khách mới / tiềm năng,4,4,2
+AP-10915,Arthur Prichep,Consumer,Khách trung thành (VIP),3,5,4
+AR-10345,Alex Russell,Corporate,Khách ngủ đông,2,1,2
+AR-10405,Allen Rosenblatt,Corporate,Khách ngủ đông,2,2,3
+AR-10510,Andrew Roberts,Consumer,Khách mới / tiềm năng,5,2,1
+AR-10540,Andy Reiter,Consumer,Khách trung thành (VIP),5,3,5
+AR-10570,Anemone Ratner,Consumer,Khách ngủ đông,1,1,1
+AR-10825,Anthony Rawles,Corporate,Giá trị cao – nguy cơ rời bỏ,3,4,5
+AS-10045,Aaron Smayling,Corporate,Giá trị cao – nguy cơ rời bỏ,3,3,4
+AS-10090,Adam Shillingsburg,Consumer,Khách trung thành (VIP),4,5,4
+AS-10135,Adrian Shami,Home Office,Khách mới / tiềm năng,4,1,1
+AS-10225,Alan Schoenberger,Corporate,Khách mới / tiềm năng,5,2,4
+AS-10240,Alan Shonely,Consumer,Khách ngủ đông,2,3,1
+AS-10285,Alejandro Savely,Corporate,Khách trung thành (VIP),5,3,4
+AS-10630,Ann Steele,Home Office,Khách mới / tiềm năng,3,3,1
+AT-10435,Alyssa Tate,Home Office,Khách mới / tiềm năng,5,3,2
+AT-10735,Annie Thurman,Consumer,Khách trung thành (VIP),5,5,4
+AW-10840,Anthony Witt,Consumer,Khách mới / tiềm năng,5,1,1
+AW-10930,Arthur Wiediger,Home Office,Khách trung thành (VIP),4,3,4
+AY-10555,Andy Yotov,Corporate,Khách mới / tiềm năng,5,1,1
+AZ-10750,Annie Zypern,Consumer,Khách ngủ đông,2,3,2
+BB-10990,Barry Blumstein,Corporate,Khách ngủ đông,2,2,1
+BB-11545,Brenda Bowman,Corporate,Khách trung thành (VIP),4,5,5
+BC-11125,Becky Castell,Home Office,Giá trị cao – nguy cơ rời bỏ,2,5,4
+BD-11320,Bill Donatelli,Consumer,Khách trung thành (VIP),4,5,5
+BD-11500,Bradley Drucker,Consumer,Khách trung thành (VIP),4,3,5
+BD-11560,Brendan Dodson,Home Office,Khách ngủ đông,1,1,1
+BD-11605,Brian Dahlen,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,4
+BD-11620,Brian DeCherney,Consumer,Khách mới / tiềm năng,3,3,2
+BD-11635,Brian Derr,Consumer,Khách mới / tiềm năng,5,1,1
+BD-11725,Bruce Degenhardt,Consumer,Khách mới / tiềm năng,3,3,2
+BD-11770,Bryan Davis,Consumer,Khách ngủ đông,1,3,1
+BE-11335,Bill Eplett,Home Office,Giá trị cao – nguy cơ rời bỏ,2,2,4
+BE-11410,Bobby Elias,Consumer,Khách mới / tiềm năng,3,2,3
+BE-11455,Brad Eason,Home Office,Khách ngủ đông,1,3,2
+BF-10975,Barbara Fisher,Corporate,Khách mới / tiềm năng,3,3,1
+BF-11005,Barry Franz,Home Office,Khách mới / tiềm năng,4,1,2
+BF-11020,Barry Französisch,Corporate,Giá trị cao – nguy cơ rời bỏ,3,4,4
+BF-11080,Bart Folk,Consumer,Khách mới / tiềm năng,5,1,1
+BF-11170,Ben Ferrer,Home Office,Khách trung thành (VIP),5,5,5
+BF-11215,Benjamin Farhat,Home Office,Khách ngủ đông,3,1,2
+BF-11275,Beth Fritzler,Corporate,Khách ngủ đông,3,1,1
+BG-11035,Barry Gonzalez,Consumer,Khách trung thành (VIP),4,4,4
+BG-11695,Brooke Gillingham,Corporate,Khách mới / tiềm năng,4,3,3
+BG-11740,Bruce Geld,Consumer,Khách mới / tiềm năng,3,3,2
+BH-11710,Brosina Hoffman,Consumer,Khách trung thành (VIP),5,4,5
+BK-11260,Berenike Kampe,Consumer,Khách mới / tiềm năng,3,3,1
+BM-11140,Becky Martin,Consumer,Giá trị cao – nguy cơ rời bỏ,1,1,5
+BM-11575,Brendan Murry,Corporate,Khách mới / tiềm năng,3,3,1
+BM-11650,Brian Moss,Corporate,Khách trung thành (VIP),4,5,5
+BM-11785,Bryan Mills,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,2
+BN-11470,Brad Norvell,Corporate,Khách mới / tiềm năng,5,1,1
+BN-11515,Bradley Nguyen,Consumer,Khách mới / tiềm năng,5,2,2
+BO-11350,Bill Overfelt,Corporate,Khách ngủ đông,2,2,3
+BO-11425,Bobby Odegard,Consumer,Khách ngủ đông,3,1,1
+BP-11050,Barry Pond,Corporate,Khách mới / tiềm năng,3,2,2
+BP-11095,Bart Pistole,Corporate,Khách trung thành (VIP),5,5,3
+BP-11155,Becky Pak,Consumer,Khách mới / tiềm năng,3,3,2
+BP-11185,Ben Peterman,Corporate,Khách trung thành (VIP),5,5,4
+BP-11230,Benjamin Patterson,Consumer,Khách mới / tiềm năng,4,2,2
+BP-11290,Beth Paige,Consumer,Khách mới / tiềm năng,5,3,3
+BS-11365,Bill Shonely,Corporate,Giá trị cao – nguy cơ rời bỏ,1,2,5
+BS-11380,Bill Stewart,Corporate,Khách mới / tiềm năng,4,2,4
+BS-11590,Brendan Sweed,Corporate,Khách mới / tiềm năng,4,3,3
+BS-11665,Brian Stugart,Consumer,Khách ngủ đông,1,1,4
+BS-11755,Bruce Stewart,Consumer,Khách mới / tiềm năng,5,3,3
+BS-11800,Bryan Spruell,Home Office,Khách ngủ đông,1,1,1
+BT-11305,Beth Thompson,Home Office,Khách ngủ đông,1,2,3
+BT-11395,Bill Tyler,Corporate,Giá trị cao – nguy cơ rời bỏ,1,3,3
+BT-11440,Bobby Trafton,Consumer,Khách ngủ đông,1,1,1
+BT-11485,Brad Thomas,Home Office,Khách ngủ đông,1,1,1
+BT-11530,Bradley Talbott,Home Office,Khách mới / tiềm năng,3,2,3
+BT-11680,Brian Thompson,Consumer,Khách trung thành (VIP),5,3,4
+BV-11245,Benjamin Venier,Corporate,Khách ngủ đông,1,2,2
+BW-11065,Barry Weirich,Consumer,Khách ngủ đông,2,1,1
+BW-11110,Bart Watters,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,5
+BW-11200,Ben Wallace,Consumer,Khách ngủ đông,2,3,2
+CA-11965,Carol Adams,Corporate,Giá trị cao – nguy cơ rời bỏ,3,3,4
+CA-12055,Cathy Armstrong,Home Office,Khách ngủ đông,1,2,2
+CA-12265,Christina Anderson,Consumer,Khách trung thành (VIP),3,5,3
+CA-12310,Christine Abelman,Corporate,Khách mới / tiềm năng,5,1,2
+CA-12775,Cynthia Arntzen,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,4
+CB-12025,Cassandra Brandow,Consumer,Khách trung thành (VIP),4,5,5
+CB-12415,Christy Brittain,Consumer,Khách trung thành (VIP),5,4,3
+CB-12535,Claudia Bergmann,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,4
+CC-12100,Chad Cunningham,Home Office,Giá trị cao – nguy cơ rời bỏ,1,3,3
+CC-12145,Charles Crestani,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,3
+CC-12220,Chris Cortes,Consumer,Khách trung thành (VIP),5,5,4
+CC-12370,Christopher Conant,Consumer,Khách trung thành (VIP),4,2,5
+CC-12430,Chuck Clark,Home Office,Khách trung thành (VIP),5,5,4
+CC-12475,Cindy Chapman,Consumer,Khách trung thành (VIP),4,5,2
+CC-12550,Clay Cheatham,Consumer,Khách mới / tiềm năng,4,1,1
+CC-12610,Corey Catlett,Corporate,Khách mới / tiềm năng,4,3,3
+CC-12670,Craig Carreira,Consumer,Khách mới / tiềm năng,4,3,3
+CC-12685,Craig Carroll,Consumer,Khách ngủ đông,1,1,4
+CD-11920,Carlos Daly,Consumer,Khách mới / tiềm năng,4,2,3
+CD-11980,Carol Darley,Consumer,Khách ngủ đông,3,1,1
+CD-12280,Christina DeMoss,Consumer,Khách mới / tiềm năng,4,1,2
+CD-12790,Cynthia Delaney,Home Office,Khách ngủ đông,1,2,3
+CG-12040,Catherine Glotzbach,Home Office,Khách mới / tiềm năng,4,3,1
+CG-12520,Claire Gute,Consumer,Khách ngủ đông,1,1,2
+CH-12070,Cathy Hwang,Home Office,Khách ngủ đông,1,1,2
+CJ-11875,Carl Jackson,Corporate,Khách ngủ đông,1,1,1
+CJ-12010,Caroline Jumper,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,5
+CK-12205,Chloris Kastensmidt,Consumer,Khách trung thành (VIP),4,5,4
+CK-12325,Christine Kargatis,Home Office,Giá trị cao – nguy cơ rời bỏ,2,2,4
+CK-12595,Clytie Kelty,Consumer,Khách trung thành (VIP),4,5,3
+CK-12760,Cyma Kinney,Corporate,Khách trung thành (VIP),3,5,2
+CL-11890,Carl Ludwig,Consumer,Khách ngủ đông,2,1,2
+CL-12565,Clay Ludtke,Consumer,Giá trị cao – nguy cơ rời bỏ,1,5,5
+CL-12700,Craig Leslie,Home Office,Khách ngủ đông,2,2,3
+CM-11815,Candace McMahon,Corporate,Khách ngủ đông,2,3,2
+CM-11935,Carlos Meador,Consumer,Khách ngủ đông,1,1,1
+CM-12115,Chad McGuire,Consumer,Khách mới / tiềm năng,5,1,2
+CM-12160,Charles McCrossin,Consumer,Khách mới / tiềm năng,5,3,3
+CM-12190,Charlotte Melton,Consumer,Khách mới / tiềm năng,5,3,2
+CM-12235,Chris McAfee,Consumer,Khách ngủ đông,1,2,3
+CM-12385,Christopher Martinez,Consumer,Khách mới / tiềm năng,4,1,5
+CM-12445,Chuck Magee,Consumer,Khách ngủ đông,1,1,1
+CM-12655,Corinna Mitchell,Home Office,Khách trung thành (VIP),4,3,5
+CM-12715,Craig Molinari,Corporate,Khách ngủ đông,1,1,4
+CP-12085,Cathy Prescott,Corporate,Giá trị cao – nguy cơ rời bỏ,3,4,5
+CP-12340,Christine Phan,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,5
+CR-12580,Clay Rozendal,Home Office,Khách mới / tiềm năng,3,1,3
+CR-12625,Corey Roper,Home Office,Khách ngủ đông,1,1,1
+CR-12730,Craig Reiter,Consumer,Khách ngủ đông,3,1,2
+CR-12820,Cyra Reiten,Home Office,Khách ngủ đông,3,1,2
+CS-11845,Cari Sayre,Corporate,Khách mới / tiềm năng,3,2,2
+CS-11860,Cari Schnelling,Consumer,Khách ngủ đông,2,3,1
+CS-11950,Carlos Soltero,Consumer,Khách trung thành (VIP),5,5,4
+CS-12130,Chad Sievert,Consumer,Khách ngủ đông,1,1,1
+CS-12175,Charles Sheldon,Corporate,Khách ngủ đông,1,2,1
+CS-12250,Chris Selesnick,Corporate,Khách trung thành (VIP),5,5,4
+CS-12355,Christine Sundaresam,Consumer,Khách trung thành (VIP),5,5,4
+CS-12400,Christopher Schild,Home Office,Khách trung thành (VIP),5,5,4
+CS-12460,Chuck Sachs,Consumer,Khách mới / tiềm năng,4,1,1
+CS-12490,Cindy Schnelling,Corporate,Khách ngủ đông,1,1,2
+CS-12505,Cindy Stewart,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,5
+CT-11995,Carol Triggs,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,4
+CV-12295,Christina VanderZanden,Consumer,Giá trị cao – nguy cơ rời bỏ,1,2,4
+CV-12805,Cynthia Voltz,Corporate,Khách trung thành (VIP),5,5,3
+CW-11905,Carl Weiss,Home Office,Khách mới / tiềm năng,5,3,2
+CY-12745,Craig Yedwab,Corporate,Giá trị cao – nguy cơ rời bỏ,3,4,4
+Co-12640,Corey-Lock,Consumer,Khách ngủ đông,1,2,2
+DA-13450,Dianna Arnett,Home Office,Khách ngủ đông,1,1,1
+DB-12910,Daniel Byrd,Home Office,Khách trung thành (VIP),5,4,3
+DB-12970,Darren Budd,Corporate,Giá trị cao – nguy cơ rời bỏ,1,2,4
+DB-13060,Dave Brooks,Consumer,Khách trung thành (VIP),5,3,5
+DB-13120,David Bremer,Corporate,Khách trung thành (VIP),4,3,4
+DB-13210,Dean Braden,Consumer,Khách trung thành (VIP),5,5,3
+DB-13270,Deborah Brumfield,Home Office,Khách trung thành (VIP),4,4,5
+DB-13360,Dennis Bolton,Home Office,Khách ngủ đông,1,2,2
+DB-13405,Denny Blanton,Consumer,Khách ngủ đông,2,1,2
+DB-13555,Dorothy Badders,Corporate,Giá trị cao – nguy cơ rời bỏ,2,3,4
+DB-13615,Doug Bickford,Consumer,Khách mới / tiềm năng,4,3,3
+DB-13660,Duane Benoit,Consumer,Khách mới / tiềm năng,5,3,2
+DC-12850,Dan Campbell,Consumer,Khách trung thành (VIP),4,5,4
+DC-13285,Debra Catini,Consumer,Khách mới / tiềm năng,5,2,2
+DD-13570,Dorothy Dickinson,Consumer,Khách mới / tiềm năng,4,3,1
+DE-13255,Deanra Eno,Home Office,Khách ngủ đông,1,2,3
+DF-13135,David Flashing,Consumer,Khách ngủ đông,1,1,3
+DG-13300,Deirdre Greer,Corporate,Khách mới / tiềm năng,4,2,4
+DH-13075,Dave Hallsten,Corporate,Giá trị cao – nguy cơ rời bỏ,1,3,5
+DH-13675,Duane Huffman,Home Office,Khách ngủ đông,1,1,2
+DJ-13420,Denny Joy,Corporate,Khách ngủ đông,1,1,3
+DJ-13510,Don Jones,Corporate,Khách trung thành (VIP),4,4,3
+DJ-13630,Doug Jacobs,Consumer,Khách mới / tiềm năng,5,1,4
+DK-12835,Damala Kotsonis,Corporate,Khách trung thành (VIP),5,5,4
+DK-12895,Dana Kaydos,Consumer,Khách mới / tiềm năng,4,2,4
+DK-12985,Darren Koutras,Consumer,Khách mới / tiềm năng,5,2,2
+DK-13090,Dave Kipp,Consumer,Khách mới / tiềm năng,4,3,3
+DK-13150,David Kendrick,Corporate,Khách mới / tiềm năng,5,1,1
+DK-13225,Dean Katz,Corporate,Khách trung thành (VIP),5,5,5
+DK-13375,Dennis Kane,Consumer,Khách trung thành (VIP),5,4,4
+DL-12865,Dan Lawera,Consumer,Khách mới / tiềm năng,3,4,2
+DL-12925,Daniel Lacy,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,4
+DL-13315,Delfina Latchford,Consumer,Khách mới / tiềm năng,5,4,2
+DL-13330,Denise Leinenbach,Consumer,Khách ngủ đông,3,1,1
+DL-13495,Dionis Lloyd,Corporate,Giá trị cao – nguy cơ rời bỏ,3,4,4
+DM-12955,Dario Medina,Corporate,Khách ngủ đông,2,3,2
+DM-13015,Darrin Martin,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,5
+DM-13345,Denise Monton,Corporate,Khách trung thành (VIP),5,4,4
+DM-13525,Don Miller,Corporate,Khách ngủ đông,1,1,2
+DN-13690,Duane Noonan,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,3
+DO-13435,Denny Ordway,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,2
+DO-13645,Doug O'Connell,Consumer,Khách mới / tiềm năng,5,3,2
+DP-13000,Darren Powers,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,2
+DP-13105,Dave Poirier,Corporate,Khách trung thành (VIP),5,4,3
+DP-13165,David Philippe,Consumer,Khách ngủ đông,1,1,2
+DP-13390,Dennis Pardue,Home Office,Giá trị cao – nguy cơ rời bỏ,1,5,5
+DR-12880,Dan Reichenbach,Corporate,Khách trung thành (VIP),5,5,5
+DR-12940,Daniel Raglin,Home Office,Khách trung thành (VIP),4,4,5
+DS-13030,Darrin Sayre,Home Office,Khách mới / tiềm năng,3,1,3
+DS-13180,David Smith,Corporate,Khách trung thành (VIP),5,5,4
+DV-13045,Darrin Van Huff,Corporate,Khách mới / tiềm năng,5,2,2
+DV-13465,Dianna Vittorini,Consumer,Khách trung thành (VIP),4,3,4
+DW-13195,David Wiener,Corporate,Khách mới / tiềm năng,3,3,2
+DW-13480,Dianna Wilson,Home Office,Giá trị cao – nguy cơ rời bỏ,2,2,5
+DW-13540,Don Weiss,Consumer,Khách mới / tiềm năng,3,2,1
+DW-13585,Dorothy Wardle,Corporate,Khách ngủ đông,1,3,2
+Dl-13600,Dorris liebe,Corporate,Khách ngủ đông,2,2,1
+Dp-13240,Dean percer,Home Office,Khách trung thành (VIP),3,5,5
+EA-14035,Erin Ashbrook,Corporate,Giá trị cao – nguy cơ rời bỏ,2,5,4
+EB-13705,Ed Braxton,Corporate,Khách trung thành (VIP),4,5,4
+EB-13750,Edward Becker,Corporate,Khách trung thành (VIP),4,5,4
+EB-13840,Ellis Ballard,Corporate,Giá trị cao – nguy cơ rời bỏ,3,2,5
+EB-13870,Emily Burns,Consumer,Khách trung thành (VIP),3,5,4
+EB-13930,Eric Barreto,Consumer,Khách ngủ đông,2,2,1
+EB-13975,Erica Bern,Corporate,Khách mới / tiềm năng,5,1,2
+EB-14110,Eugene Barchas,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,4
+EB-14170,Evan Bailliet,Consumer,Khách mới / tiềm năng,3,3,2
+EC-14050,Erin Creighton,Consumer,Khách mới / tiềm năng,4,2,1
+ED-13885,Emily Ducich,Home Office,Giá trị cao – nguy cơ rời bỏ,2,4,4
+EG-13900,Emily Grady,Consumer,Khách mới / tiềm năng,5,2,3
+EH-13765,Edward Hooks,Corporate,Giá trị cao – nguy cơ rời bỏ,2,5,5
+EH-13945,Eric Hoffmann,Consumer,Khách ngủ đông,2,4,1
+EH-13990,Erica Hackney,Consumer,Khách ngủ đông,1,3,1
+EH-14005,Erica Hernandez,Home Office,Khách mới / tiềm năng,5,3,2
+EH-14125,Eugene Hildebrand,Home Office,Giá trị cao – nguy cơ rời bỏ,2,5,4
+EH-14185,Evan Henry,Consumer,Khách ngủ đông,2,3,1
+EJ-13720,Ed Jacobs,Consumer,Khách ngủ đông,1,1,3
+EJ-14155,Eva Jacobs,Consumer,Khách mới / tiềm năng,3,2,3
+EK-13795,Eileen Kiefer,Home Office,Khách mới / tiềm năng,4,1,2
+EL-13735,Ed Ludwig,Home Office,Khách ngủ đông,3,1,1
+EM-13810,Eleni McCrary,Corporate,Khách ngủ đông,2,2,3
+EM-13825,Elizabeth Moffitt,Corporate,Giá trị cao – nguy cơ rời bỏ,3,4,3
+EM-13960,Eric Murdock,Consumer,Khách ngủ đông,2,2,1
+EM-14065,Erin Mull,Consumer,Khách mới / tiềm năng,4,1,1
+EM-14095,Eudokia Martin,Corporate,Khách ngủ đông,2,1,2
+EM-14140,Eugene Moren,Home Office,Khách trung thành (VIP),4,3,5
+EM-14200,Evan Minnotte,Home Office,Khách ngủ đông,2,1,1
+EN-13780,Edward Nazzal,Consumer,Khách ngủ đông,1,1,3
+EP-13915,Emily Phan,Consumer,Khách trung thành (VIP),5,5,5
+ER-13855,Elpida Rittenbach,Corporate,Khách ngủ đông,1,1,2
+ES-14020,Erica Smith,Consumer,Khách mới / tiềm năng,4,2,4
+ES-14080,Erin Smith,Corporate,Khách trung thành (VIP),4,5,5
+FA-14230,Frank Atkinson,Corporate,Giá trị cao – nguy cơ rời bỏ,3,3,4
+FC-14245,Frank Carlisle,Home Office,Giá trị cao – nguy cơ rời bỏ,3,3,4
+FC-14335,Fred Chung,Corporate,Giá trị cao – nguy cơ rời bỏ,2,3,4
+FG-14260,Frank Gastineau,Home Office,Khách mới / tiềm năng,4,3,2
+FH-14275,Frank Hawley,Corporate,Khách trung thành (VIP),4,5,4
+FH-14350,Fred Harton,Consumer,Khách ngủ đông,2,1,3
+FH-14365,Fred Hopkins,Corporate,Khách trung thành (VIP),5,4,5
+FM-14215,Filia McAdams,Corporate,Khách trung thành (VIP),5,5,3
+FM-14290,Frank Merwin,Home Office,Khách trung thành (VIP),4,5,4
+FM-14380,Fred McMath,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,3
+FO-14305,Frank Olsen,Consumer,Khách trung thành (VIP),4,5,3
+FP-14320,Frank Preis,Consumer,Khách trung thành (VIP),5,4,4
+FW-14395,Fred Wasserman,Corporate,Khách ngủ đông,1,1,1
+GA-14515,George Ashbrook,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,4
+GA-14725,Guy Armstrong,Consumer,Khách trung thành (VIP),5,5,2
+GB-14530,George Bell,Corporate,Khách trung thành (VIP),3,5,2
+GB-14575,Giulietta Baptist,Consumer,Khách trung thành (VIP),5,2,5
+GD-14590,Giulietta Dortch,Corporate,Khách mới / tiềm năng,5,1,3
+GG-14650,Greg Guthrie,Corporate,Khách trung thành (VIP),4,5,3
+GH-14410,Gary Hansen,Home Office,Khách trung thành (VIP),3,5,4
+GH-14425,Gary Hwang,Consumer,Khách mới / tiềm năng,4,1,4
+GH-14485,Gene Hale,Corporate,Khách ngủ đông,1,1,2
+GH-14665,Greg Hansen,Consumer,Khách mới / tiềm năng,5,1,1
+GK-14620,Grace Kelly,Corporate,Giá trị cao – nguy cơ rời bỏ,2,5,5
+GM-14440,Gary McGarr,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,4
+GM-14455,Gary Mitchum,Home Office,Khách trung thành (VIP),5,3,4
+GM-14500,Gene McClure,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,2
+GM-14680,Greg Matthias,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,4
+GM-14695,Greg Maxwell,Corporate,Giá trị cao – nguy cơ rời bỏ,2,1,5
+GP-14740,Guy Phonely,Corporate,Khách ngủ đông,1,1,1
+GR-14560,Georgia Rosenberg,Corporate,Khách ngủ đông,1,1,2
+GT-14635,Grant Thornton,Corporate,Giá trị cao – nguy cơ rời bỏ,3,1,5
+GT-14710,Greg Tran,Consumer,Khách trung thành (VIP),4,5,5
+GT-14755,Guy Thornton,Consumer,Khách mới / tiềm năng,4,1,1
+GW-14605,Giulietta Weimer,Consumer,Khách mới / tiềm năng,4,3,3
+GZ-14470,Gary Zandusky,Consumer,Khách trung thành (VIP),5,5,5
+GZ-14545,George Zrebassa,Corporate,Khách ngủ đông,2,1,3
+HA-14905,Helen Abelman,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,3
+HA-14920,Helen Andreada,Consumer,Khách trung thành (VIP),5,4,3
+HD-14785,Harold Dahlen,Home Office,Khách ngủ đông,1,1,1
+HE-14800,Harold Engle,Corporate,Khách mới / tiềm năng,5,1,1
+HF-14995,Herbert Flentye,Consumer,Khách trung thành (VIP),5,4,3
+HG-14845,Harry Greene,Consumer,Khách mới / tiềm năng,3,2,1
+HG-14965,Henry Goldwyn,Corporate,Khách trung thành (VIP),5,5,4
+HG-15025,Hunter Glantz,Consumer,Khách trung thành (VIP),5,4,4
+HH-15010,Hilary Holden,Corporate,Khách ngủ đông,3,1,1
+HJ-14875,Heather Jas,Home Office,Khách ngủ đông,2,2,1
+HK-14890,Heather Kirkland,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,5
+HL-15040,Hunter Lopez,Consumer,Khách trung thành (VIP),4,3,5
+HM-14860,Harry Marie,Corporate,Khách trung thành (VIP),5,5,5
+HM-14980,Henry MacAllister,Consumer,Khách ngủ đông,1,1,1
+HP-14815,Harold Pawlan,Home Office,Khách trung thành (VIP),4,4,3
+HR-14770,Hallie Redmond,Home Office,Khách mới / tiềm năng,5,2,2
+HR-14830,Harold Ryan,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,5
+HW-14935,Helen Wasserman,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,5
+HZ-14950,Henia Zydlo,Consumer,Khách mới / tiềm năng,4,2,1
+IG-15085,Ivan Gibson,Consumer,Khách ngủ đông,3,1,1
+IL-15100,Ivan Liston,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,5
+IM-15055,Ionia McGrath,Consumer,Khách ngủ đông,1,1,4
+IM-15070,Irene Maddox,Consumer,Giá trị cao – nguy cơ rời bỏ,1,4,5
+JA-15970,Joseph Airdo,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,5
+JB-15400,Jennifer Braxton,Corporate,Khách trung thành (VIP),5,5,3
+JB-15925,Joni Blumstein,Consumer,Khách ngủ đông,1,1,1
+JB-16000,Joy Bell-,Consumer,Khách mới / tiềm năng,4,4,1
+JB-16045,Julia Barnett,Home Office,Khách mới / tiềm năng,5,2,3
+JC-15340,Jasper Cacioppo,Consumer,Khách ngủ đông,2,1,1
+JC-15385,Jenna Caffey,Consumer,Khách ngủ đông,2,1,2
+JC-15775,John Castell,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,4
+JC-16105,Julie Creighton,Corporate,Khách mới / tiềm năng,3,2,1
+JD-15790,John Dryer,Consumer,Khách ngủ đông,2,2,3
+JD-15895,Jonathan Doherty,Corporate,Giá trị cao – nguy cơ rời bỏ,1,5,5
+JD-16015,Joy Daniels,Consumer,Khách ngủ đông,2,3,1
+JD-16060,Julia Dunbar,Consumer,Khách ngủ đông,1,1,1
+JD-16150,Justin Deggeller,Corporate,Khách trung thành (VIP),4,4,5
+JE-15475,Jeremy Ellison,Consumer,Khách ngủ đông,2,3,2
+JE-15610,Jim Epp,Corporate,Khách trung thành (VIP),4,4,5
+JE-15715,Joe Elijah,Consumer,Khách trung thành (VIP),4,5,5
+JE-15745,Joel Eaton,Consumer,Khách trung thành (VIP),4,5,5
+JE-16165,Justin Ellison,Corporate,Khách mới / tiềm năng,5,1,3
+JF-15190,Jamie Frazer,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,3
+JF-15295,Jason Fortune-,Consumer,Khách ngủ đông,1,2,1
+JF-15355,Jay Fein,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,3
+JF-15415,Jennifer Ferguson,Consumer,Khách mới / tiềm năng,5,3,3
+JF-15490,Jeremy Farry,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,2
+JF-15565,Jill Fjeld,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,4
+JG-15115,Jack Garza,Consumer,Khách ngủ đông,1,1,3
+JG-15160,James Galang,Consumer,Khách trung thành (VIP),5,5,5
+JG-15310,Jason Gross,Corporate,Khách mới / tiềm năng,5,3,3
+JG-15805,John Grady,Corporate,Khách ngủ đông,2,3,2
+JH-15430,Jennifer Halladay,Consumer,Khách mới / tiềm năng,5,1,1
+JH-15820,John Huston,Consumer,Khách ngủ đông,2,3,1
+JH-15910,Jonathan Howell,Consumer,Khách mới / tiềm năng,4,4,1
+JH-15985,Joseph Holt,Consumer,Khách trung thành (VIP),4,3,5
+JH-16180,Justin Hirsh,Consumer,Khách ngủ đông,1,1,3
+JJ-15445,Jennifer Jackson,Consumer,Khách ngủ đông,1,2,1
+JJ-15760,Joel Jenkins,Home Office,Khách ngủ đông,1,1,1
+JK-15205,Jamie Kunitz,Consumer,Giá trị cao – nguy cơ rời bỏ,3,2,5
+JK-15325,Jason Klamczynski,Corporate,Khách ngủ đông,1,1,1
+JK-15370,Jay Kimmel,Consumer,Khách trung thành (VIP),4,4,3
+JK-15625,Jim Karlsson,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,4
+JK-15640,Jim Kriz,Home Office,Giá trị cao – nguy cơ rời bỏ,2,5,5
+JK-15730,Joe Kamberova,Consumer,Khách trung thành (VIP),3,5,5
+JK-16090,Juliana Krohn,Consumer,Khách mới / tiềm năng,4,1,4
+JK-16120,Julie Kriz,Home Office,Giá trị cao – nguy cơ rời bỏ,2,5,4
+JL-15130,Jack Lebron,Consumer,Khách mới / tiềm năng,5,3,2
+JL-15175,James Lanier,Home Office,Khách mới / tiềm năng,5,2,2
+JL-15235,Janet Lee,Consumer,Khách ngủ đông,2,2,3
+JL-15505,Jeremy Lonsdale,Consumer,Khách trung thành (VIP),4,3,4
+JL-15835,John Lee,Consumer,Khách trung thành (VIP),5,5,5
+JL-15850,John Lucas,Consumer,Giá trị cao – nguy cơ rời bỏ,1,3,3
+JM-15250,Janet Martin,Consumer,Khách trung thành (VIP),4,3,4
+JM-15265,Janet Molinari,Corporate,Khách mới / tiềm năng,4,2,3
+JM-15535,Jessica Myrick,Consumer,Khách mới / tiềm năng,3,4,2
+JM-15580,Jill Matthias,Consumer,Khách mới / tiềm năng,5,2,1
+JM-15655,Jim Mitchum,Corporate,Khách mới / tiềm năng,5,2,1
+JM-15865,John Murray,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,5
+JM-16195,Justin MacKendrick,Consumer,Khách trung thành (VIP),3,5,4
+JO-15145,Jack O'Briant,Corporate,Khách trung thành (VIP),3,5,4
+JO-15280,Jas O'Carroll,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,3
+JO-15550,Jesus Ocampo,Home Office,Khách ngủ đông,2,2,2
+JP-15460,Jennifer Patt,Corporate,Khách mới / tiềm năng,4,4,2
+JP-15520,Jeremy Pistek,Consumer,Khách trung thành (VIP),5,4,4
+JP-16135,Julie Prescott,Home Office,Khách trung thành (VIP),3,5,2
+JR-15670,Jim Radford,Consumer,Khách ngủ đông,1,1,2
+JR-15700,Jocasta Rupert,Consumer,Khách ngủ đông,3,1,1
+JR-16210,Justin Ritter,Corporate,Khách mới / tiềm năng,4,2,3
+JS-15595,Jill Stevenson,Corporate,Khách ngủ đông,2,1,2
+JS-15685,Jim Sink,Corporate,Khách mới / tiềm năng,4,1,2
+JS-15880,John Stevenson,Consumer,Giá trị cao – nguy cơ rời bỏ,1,2,4
+JS-15940,Joni Sundaresam,Home Office,Khách ngủ đông,1,2,1
+JS-16030,Joy Smith,Consumer,Khách mới / tiềm năng,4,3,3
+JW-15220,Jane Waco,Corporate,Khách trung thành (VIP),4,3,5
+JW-15955,Joni Wasserman,Consumer,Khách mới / tiềm năng,5,4,2
+JW-16075,Julia West,Consumer,Khách ngủ đông,1,1,2
+KA-16525,Kelly Andreada,Consumer,Khách mới / tiềm năng,4,4,2
+KB-16240,Karen Bern,Corporate,Khách trung thành (VIP),5,4,4
+KB-16315,Karl Braun,Consumer,Giá trị cao – nguy cơ rời bỏ,1,5,2
+KB-16405,Katrina Bavinger,Home Office,Khách ngủ đông,2,1,1
+KB-16585,Ken Black,Corporate,Giá trị cao – nguy cơ rời bỏ,1,5,3
+KB-16600,Ken Brennan,Corporate,Khách mới / tiềm năng,5,4,2
+KC-16255,Karen Carlisle,Corporate,Giá trị cao – nguy cơ rời bỏ,1,3,3
+KC-16540,Kelly Collister,Consumer,Khách mới / tiềm năng,3,1,4
+KC-16675,Kimberly Carter,Corporate,Khách ngủ đông,3,1,2
+KD-16270,Karen Daniels,Consumer,Giá trị cao – nguy cơ rời bỏ,1,2,5
+KD-16345,Katherine Ducich,Consumer,Khách mới / tiềm năng,4,3,3
+KD-16495,Keith Dawkins,Corporate,Giá trị cao – nguy cơ rời bỏ,2,5,5
+KD-16615,Ken Dana,Corporate,Khách ngủ đông,1,2,3
+KE-16420,Katrina Edelman,Corporate,Khách mới / tiềm năng,5,4,2
+KF-16285,Karen Ferguson,Home Office,Giá trị cao – nguy cơ rời bỏ,3,4,5
+KH-16330,Katharine Harms,Corporate,Khách trung thành (VIP),4,4,4
+KH-16360,Katherine Hughes,Consumer,Khách trung thành (VIP),5,3,4
+KH-16510,Keith Herrera,Consumer,Khách trung thành (VIP),5,4,5
+KH-16630,Ken Heidel,Corporate,Khách trung thành (VIP),3,5,4
+KH-16690,Kristen Hastings,Corporate,Khách trung thành (VIP),5,4,5
+KL-16555,Kelly Lampkin,Corporate,Khách trung thành (VIP),5,4,5
+KL-16645,Ken Lonsdale,Consumer,Khách trung thành (VIP),4,5,5
+KM-16225,Kalyca Meade,Corporate,Khách mới / tiềm năng,5,3,3
+KM-16375,Katherine Murray,Home Office,Giá trị cao – nguy cơ rời bỏ,3,4,5
+KM-16660,Khloe Miller,Consumer,Khách mới / tiềm năng,5,2,1
+KM-16720,Kunst Miller,Consumer,Khách trung thành (VIP),4,4,5
+KN-16390,Katherine Nockton,Corporate,Khách trung thành (VIP),5,5,3
+KN-16450,Kean Nguyen,Corporate,Khách mới / tiềm năng,4,2,3
+KN-16705,Kristina Nunn,Home Office,Giá trị cao – nguy cơ rời bỏ,3,4,3
+KS-16300,Karen Seio,Corporate,Khách ngủ đông,1,1,1
+KT-16465,Kean Takahito,Consumer,Giá trị cao – nguy cơ rời bỏ,1,4,4
+KT-16480,Kean Thornton,Consumer,Khách trung thành (VIP),3,5,5
+KW-16435,Katrina Willman,Consumer,Giá trị cao – nguy cơ rời bỏ,3,2,5
+KW-16570,Kelly Williams,Consumer,Khách ngủ đông,1,1,1
+LA-16780,Laura Armstrong,Corporate,Giá trị cao – nguy cơ rời bỏ,2,5,5
+LB-16735,Larry Blacks,Consumer,Khách mới / tiềm năng,4,1,1
+LB-16795,Laurel Beltran,Home Office,Giá trị cao – nguy cơ rời bỏ,2,4,5
+LC-16870,Lena Cacioppo,Consumer,Khách trung thành (VIP),4,4,3
+LC-16885,Lena Creighton,Consumer,Khách trung thành (VIP),5,5,5
+LC-16930,Linda Cazamias,Corporate,Khách trung thành (VIP),4,4,5
+LC-16960,Lindsay Castell,Home Office,Khách ngủ đông,1,1,4
+LC-17050,Liz Carlisle,Consumer,Khách mới / tiềm năng,3,2,3
+LC-17140,Logan Currie,Consumer,Khách trung thành (VIP),5,5,3
+LD-16855,Lela Donovan,Corporate,Khách ngủ đông,1,1,1
+LD-17005,Lisa DeCherney,Consumer,Khách ngủ đông,1,1,3
+LE-16810,Laurel Elliston,Consumer,Khách mới / tiềm năng,5,3,2
+LF-17185,Luke Foster,Consumer,Khách trung thành (VIP),5,4,4
+LH-16750,Larry Hughes,Consumer,Khách ngủ đông,2,1,1
+LH-16900,Lena Hernandez,Consumer,Khách trung thành (VIP),5,5,3
+LH-17020,Lisa Hazard,Consumer,Khách ngủ đông,1,1,1
+LH-17155,Logan Haushalter,Consumer,Giá trị cao – nguy cơ rời bỏ,1,5,3
+LL-16840,Lauren Leatherbury,Consumer,Giá trị cao – nguy cơ rời bỏ,1,3,3
+LM-17065,Liz MacKendrick,Consumer,Khách ngủ đông,1,2,2
+LO-17170,Lori Olson,Corporate,Khách mới / tiềm năng,5,2,1
+LP-17080,Liz Pelletier,Consumer,Khách mới / tiềm năng,4,1,1
+LP-17095,Liz Preis,Consumer,Khách trung thành (VIP),5,4,4
+LR-16915,Lena Radford,Consumer,Khách trung thành (VIP),5,3,5
+LR-17035,Lisa Ryan,Corporate,Khách ngủ đông,2,2,3
+LS-16945,Linda Southworth,Corporate,Giá trị cao – nguy cơ rời bỏ,2,3,4
+LS-16975,Lindsay Shagiari,Home Office,Khách trung thành (VIP),5,5,4
+LS-17200,Luke Schmidt,Corporate,Khách mới / tiềm năng,3,3,2
+LS-17230,Lycoris Saunders,Consumer,Khách ngủ đông,1,1,1
+LS-17245,Lynn Smith,Consumer,Khách mới / tiềm năng,4,3,2
+LT-16765,Larry Tron,Consumer,Khách mới / tiềm năng,5,1,1
+LT-17110,Liz Thompson,Consumer,Khách trung thành (VIP),4,4,4
+LW-16825,Laurel Workman,Corporate,Khách mới / tiềm năng,3,2,3
+LW-16990,Lindsay Williams,Corporate,Khách trung thành (VIP),4,3,4
+LW-17125,Liz Willingham,Consumer,Khách ngủ đông,2,1,2
+LW-17215,Luke Weiss,Consumer,Khách trung thành (VIP),5,4,5
+MA-17560,Matt Abelman,Home Office,Khách trung thành (VIP),3,5,5
+MA-17995,Michelle Arnett,Home Office,Giá trị cao – nguy cơ rời bỏ,2,3,3
+MB-17305,Maria Bertelson,Consumer,Khách trung thành (VIP),4,5,2
+MB-18085,Mick Brown,Consumer,Khách mới / tiềm năng,4,4,2
+MC-17275,Marc Crier,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,3
+MC-17425,Mark Cousins,Corporate,Giá trị cao – nguy cơ rời bỏ,1,2,5
+MC-17575,Matt Collins,Consumer,Khách mới / tiềm năng,4,4,2
+MC-17590,Matt Collister,Corporate,Khách mới / tiềm năng,4,3,3
+MC-17605,Matt Connell,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,3
+MC-17635,Matthew Clasen,Corporate,Khách ngủ đông,2,1,1
+MC-17845,Michael Chen,Consumer,Khách trung thành (VIP),5,4,4
+MC-18100,Mick Crebagga,Consumer,Khách trung thành (VIP),4,5,3
+MC-18130,Mike Caudle,Corporate,Khách ngủ đông,1,2,2
+MD-17350,Maribeth Dona,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,4
+MD-17860,Michael Dominguez,Corporate,Khách mới / tiềm năng,4,2,2
+ME-17320,Maria Etezadi,Home Office,Khách trung thành (VIP),4,5,5
+ME-17725,Max Engle,Consumer,Khách trung thành (VIP),4,4,3
+ME-18010,Michelle Ellison,Corporate,Khách mới / tiềm năng,3,2,2
+MF-17665,Maureen Fritzler,Corporate,Khách ngủ đông,1,2,1
+MF-18250,Monica Federle,Corporate,Khách mới / tiềm năng,5,2,3
+MG-17650,Matthew Grinstein,Home Office,Khách trung thành (VIP),4,4,4
+MG-17680,Maureen Gastineau,Home Office,Khách mới / tiềm năng,3,2,3
+MG-17695,Maureen Gnade,Consumer,Khách ngủ đông,1,1,2
+MG-17875,Michael Grace,Home Office,Khách ngủ đông,2,2,2
+MG-17890,Michael Granlund,Home Office,Khách mới / tiềm năng,3,5,1
+MG-18145,Mike Gockenbach,Consumer,Giá trị cao – nguy cơ rời bỏ,3,2,4
+MG-18205,Mitch Gastineau,Corporate,Khách ngủ đông,1,1,1
+MH-17290,Marc Harrigan,Home Office,Giá trị cao – nguy cơ rời bỏ,2,3,3
+MH-17440,Mark Haberlin,Corporate,Khách ngủ đông,1,2,1
+MH-17455,Mark Hamilton,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,3
+MH-17620,Matt Hagelstein,Corporate,Khách ngủ đông,2,2,2
+MH-17785,Maya Herman,Corporate,Giá trị cao – nguy cơ rời bỏ,3,4,3
+MH-18025,Michelle Huthwaite,Consumer,Khách mới / tiềm năng,4,2,4
+MH-18115,Mick Hernandez,Home Office,Khách trung thành (VIP),5,5,5
+MJ-17740,Max Jones,Consumer,Khách trung thành (VIP),5,4,5
+MK-17905,Michael Kennedy,Corporate,Khách trung thành (VIP),4,4,3
+MK-18160,Mike Kennedy,Consumer,Khách ngủ đông,1,2,2
+ML-17395,Marina Lichtenstein,Corporate,Khách trung thành (VIP),3,5,3
+ML-17410,Maris LaWare,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,4
+ML-17755,Max Ludwig,Home Office,Khách trung thành (VIP),4,4,3
+ML-18040,Michelle Lonsdale,Corporate,Khách ngủ đông,3,1,1
+ML-18265,Muhammed Lee,Consumer,Khách ngủ đông,3,1,1
+MM-17260,Magdelene Morse,Consumer,Khách ngủ đông,2,2,2
+MM-17920,Michael Moore,Consumer,Khách trung thành (VIP),5,5,4
+MM-18055,Michelle Moray,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,3
+MM-18280,Muhammed MacIntyre,Corporate,Khách mới / tiềm năng,3,5,1
+MN-17935,Michael Nguyen,Consumer,Khách mới / tiềm năng,4,3,3
+MO-17500,Mary O'Rourke,Consumer,Khách mới / tiềm năng,3,2,1
+MO-17800,Meg O'Connel,Home Office,Giá trị cao – nguy cơ rời bỏ,2,4,2
+MO-17950,Michael Oakman,Consumer,Khách ngủ đông,2,1,1
+MP-17470,Mark Packer,Home Office,Giá trị cao – nguy cơ rời bỏ,1,4,4
+MP-17965,Michael Paige,Corporate,Khách trung thành (VIP),3,5,4
+MP-18175,Mike Pelletier,Home Office,Khách trung thành (VIP),5,5,5
+MR-17545,Mathew Reese,Home Office,Khách ngủ đông,2,2,1
+MS-17365,Maribeth Schnelling,Consumer,Giá trị cao – nguy cơ rời bỏ,1,5,5
+MS-17530,MaryBeth Skach,Consumer,Khách ngủ đông,1,2,1
+MS-17710,Maurice Satty,Consumer,Khách ngủ đông,1,3,2
+MS-17770,Maxwell Schwartz,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,4
+MS-17830,Melanie Seite,Consumer,Khách ngủ đông,1,2,1
+MS-17980,Michael Stewart,Corporate,Khách mới / tiềm năng,5,3,1
+MT-17815,Meg Tillman,Consumer,Khách trung thành (VIP),4,3,4
+MT-18070,Michelle Tran,Home Office,Khách ngủ đông,2,2,2
+MV-17485,Mark Van Huff,Consumer,Khách trung thành (VIP),4,5,2
+MV-18190,Mike Vittorini,Consumer,Khách mới / tiềm năng,5,4,2
+MW-18220,Mitch Webber,Consumer,Khách trung thành (VIP),5,4,5
+MW-18235,Mitch Willingham,Corporate,Khách mới / tiềm năng,4,1,5
+MY-17380,Maribeth Yedwab,Corporate,Khách trung thành (VIP),4,4,3
+MY-18295,Muhammed Yedwab,Corporate,Khách trung thành (VIP),3,5,4
+MZ-17335,Maria Zettner,Home Office,Khách mới / tiềm năng,4,2,1
+MZ-17515,Mary Zewe,Corporate,Giá trị cao – nguy cơ rời bỏ,1,3,3
+NB-18580,Nicole Brennan,Corporate,Khách ngủ đông,1,1,1
+NB-18655,Nona Balk,Corporate,Khách trung thành (VIP),5,5,3
+NC-18340,Nat Carroll,Consumer,Khách ngủ đông,2,2,3
+NC-18415,Nathan Cano,Consumer,Khách mới / tiềm năng,4,3,3
+NC-18535,Nick Crebassa,Corporate,Khách trung thành (VIP),5,4,5
+NC-18625,Noah Childs,Corporate,Khách ngủ đông,2,2,3
+ND-18370,Natalie DeCherney,Consumer,Khách trung thành (VIP),4,5,5
+ND-18460,Neil Ducich,Corporate,Giá trị cao – nguy cơ rời bỏ,2,3,4
+NF-18385,Natalie Fritzler,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,5
+NF-18475,Neil Französisch,Home Office,Khách ngủ đông,1,2,1
+NF-18595,Nicole Fjeld,Home Office,Giá trị cao – nguy cơ rời bỏ,2,4,3
+NG-18355,Nat Gilpin,Corporate,Khách mới / tiềm năng,4,2,3
+NG-18430,Nathan Gelder,Consumer,Khách mới / tiềm năng,4,2,2
+NH-18610,Nicole Hansen,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,3
+NK-18490,Neil Knudson,Home Office,Khách mới / tiềm năng,3,4,1
+NL-18310,Nancy Lomonaco,Home Office,Khách mới / tiềm năng,3,2,2
+NM-18445,Nathan Mautz,Home Office,Giá trị cao – nguy cơ rời bỏ,2,4,5
+NM-18520,Neoma Murray,Consumer,Giá trị cao – nguy cơ rời bỏ,1,5,3
+NP-18325,Naresj Patel,Consumer,Khách trung thành (VIP),5,3,5
+NP-18670,Nora Paige,Consumer,Giá trị cao – nguy cơ rời bỏ,3,2,4
+NP-18685,Nora Pelletier,Home Office,Khách ngủ đông,1,3,2
+NP-18700,Nora Preis,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,5
+NR-18550,Nick Radford,Consumer,Khách ngủ đông,2,2,3
+NS-18505,Neola Schneider,Consumer,Khách mới / tiềm năng,5,2,3
+NS-18640,Noel Staavos,Corporate,Giá trị cao – nguy cơ rời bỏ,2,5,4
+NW-18400,Natalie Webber,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,5
+NZ-18565,Nick Zandusky,Home Office,Khách trung thành (VIP),3,5,3
+ON-18715,Odella Nelson,Corporate,Giá trị cao – nguy cơ rời bỏ,1,5,2
+OT-18730,Olvera Toch,Consumer,Giá trị cao – nguy cơ rời bỏ,3,2,4
+PA-19060,Pete Armstrong,Home Office,Khách mới / tiềm năng,3,3,1
+PB-18805,Patrick Bzostek,Home Office,Khách mới / tiềm năng,5,1,1
+PB-19105,Peter Bühler,Consumer,Khách mới / tiềm năng,3,2,1
+PB-19150,Philip Brown,Consumer,Khách mới / tiềm năng,3,4,2
+PB-19210,Phillip Breyer,Corporate,Khách ngủ đông,1,1,1
+PC-18745,Pamela Coakley,Corporate,Khách mới / tiềm năng,5,2,3
+PC-19000,Pauline Chand,Home Office,Khách ngủ đông,1,1,2
+PF-19120,Peter Fuller,Consumer,Giá trị cao – nguy cơ rời bỏ,1,2,5
+PF-19165,Philip Fox,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,4
+PF-19225,Phillip Flathmann,Consumer,Khách ngủ đông,2,2,3
+PG-18820,Patrick Gardner,Consumer,Khách trung thành (VIP),4,5,4
+PG-18895,Paul Gonzalez,Consumer,Khách trung thành (VIP),3,5,3
+PH-18790,Patricia Hirasaki,Home Office,Khách ngủ đông,3,1,1
+PJ-18835,Patrick Jones,Corporate,Khách mới / tiềm năng,4,4,2
+PJ-19015,Pauline Johnson,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,3
+PK-18910,Paul Knutson,Home Office,Khách ngủ đông,1,1,2
+PK-19075,Pete Kriz,Consumer,Khách trung thành (VIP),5,5,5
+PL-18925,Paul Lucas,Home Office,Khách mới / tiềm năng,5,2,1
+PM-18940,Paul MacIntyre,Consumer,Khách ngủ đông,1,1,2
+PM-19135,Peter McVee,Home Office,Khách mới / tiềm năng,4,2,4
+PN-18775,Parhena Norris,Home Office,Khách mới / tiềm năng,4,4,2
+PO-18850,Patrick O'Brill,Consumer,Khách trung thành (VIP),5,5,5
+PO-18865,Patrick O'Donnell,Consumer,Khách trung thành (VIP),5,4,3
+PO-19180,Philisse Overcash,Home Office,Giá trị cao – nguy cơ rời bỏ,2,5,5
+PO-19195,Phillina Ober,Home Office,Khách mới / tiềm năng,3,2,2
+PP-18955,Paul Prost,Home Office,Khách trung thành (VIP),3,5,5
+PR-18880,Patrick Ryan,Consumer,Khách mới / tiềm năng,4,2,3
+PS-18760,Pamela Stobb,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,3
+PS-18970,Paul Stevenson,Home Office,Khách mới / tiềm năng,3,4,2
+PS-19045,Penelope Sewall,Home Office,Giá trị cao – nguy cơ rời bỏ,1,4,5
+PT-19090,Pete Takahito,Consumer,Khách mới / tiềm năng,3,2,1
+PV-18985,Paul Van Hugh,Home Office,Giá trị cao – nguy cơ rời bỏ,3,2,4
+PW-19030,Pauline Webber,Corporate,Khách trung thành (VIP),4,5,4
+PW-19240,Pierre Wener,Consumer,Giá trị cao – nguy cơ rời bỏ,1,4,4
+QJ-19255,Quincy Jones,Corporate,Khách trung thành (VIP),5,5,5
+RA-19285,Ralph Arnett,Consumer,Khách trung thành (VIP),5,5,3
+RA-19885,Ruben Ausman,Corporate,Khách trung thành (VIP),4,4,4
+RA-19915,Russell Applegate,Consumer,Khách trung thành (VIP),5,5,5
+RA-19945,Ryan Akin,Consumer,Khách mới / tiềm năng,3,2,2
+RB-19330,Randy Bradley,Consumer,Khách ngủ đông,3,1,2
+RB-19360,Raymond Buch,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,5
+RB-19435,Richard Bierner,Consumer,Khách trung thành (VIP),5,4,3
+RB-19465,Rick Bensley,Home Office,Khách trung thành (VIP),5,5,5
+RB-19570,Rob Beeghly,Consumer,Khách mới / tiềm năng,5,2,1
+RB-19645,Robert Barroso,Corporate,Khách ngủ đông,1,2,1
+RB-19705,Roger Barcio,Home Office,Khách mới / tiềm năng,3,2,3
+RB-19795,Ross Baird,Home Office,Khách trung thành (VIP),4,4,5
+RC-19825,Roy Collins,Consumer,Khách ngủ đông,1,3,2
+RC-19960,Ryan Crowe,Consumer,Khách ngủ đông,2,3,1
+RD-19480,Rick Duston,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,4
+RD-19585,Rob Dowd,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,4
+RD-19660,Robert Dilbeck,Home Office,Giá trị cao – nguy cơ rời bỏ,2,2,4
+RD-19720,Roger Demir,Consumer,Khách trung thành (VIP),5,5,2
+RD-19810,Ross DeVincentis,Home Office,Khách mới / tiềm năng,5,4,2
+RD-19900,Ruben Dartt,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,4
+RD-19930,Russell D'Ascenzo,Consumer,Khách mới / tiềm năng,4,2,2
+RE-19405,Ricardo Emerson,Consumer,Khách ngủ đông,1,1,1
+RE-19450,Richard Eichhorn,Consumer,Khách ngủ đông,1,2,1
+RF-19345,Randy Ferguson,Corporate,Giá trị cao – nguy cơ rời bỏ,1,4,4
+RF-19735,Roland Fjeld,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,3
+RF-19840,Roy Französisch,Consumer,Khách mới / tiềm năng,5,4,1
+RH-19495,Rick Hansen,Consumer,Khách mới / tiềm năng,4,2,4
+RH-19510,Rick Huthwaite,Home Office,Giá trị cao – nguy cơ rời bỏ,1,3,5
+RH-19555,Ritsa Hightower,Consumer,Khách ngủ đông,1,1,1
+RH-19600,Rob Haberlin,Consumer,Khách ngủ đông,1,1,3
+RK-19300,Ralph Kennedy,Consumer,Khách ngủ đông,2,1,2
+RL-19615,Rob Lucas,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,5
+RM-19375,Raymond Messe,Consumer,Khách ngủ đông,1,3,2
+RM-19675,Robert Marley,Home Office,Khách trung thành (VIP),5,2,5
+RM-19750,Roland Murray,Consumer,Khách ngủ đông,1,1,1
+RO-19780,Rose O'Brian,Consumer,Khách trung thành (VIP),4,4,4
+RP-19270,Rachel Payne,Corporate,Khách ngủ đông,1,2,1
+RP-19390,Resi Pölking,Consumer,Khách trung thành (VIP),4,5,5
+RP-19855,Roy Phan,Corporate,Khách trung thành (VIP),4,4,3
+RR-19315,Ralph Ritter,Consumer,Khách mới / tiềm năng,5,1,1
+RR-19525,Rick Reed,Corporate,Giá trị cao – nguy cơ rời bỏ,2,3,4
+RS-19420,Ricardo Sperren,Corporate,Giá trị cao – nguy cơ rời bỏ,3,2,4
+RS-19765,Roland Schwarz,Corporate,Khách trung thành (VIP),4,4,4
+RS-19870,Roy Skaria,Home Office,Khách mới / tiềm năng,5,1,1
+RW-19540,Rick Wilson,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,5
+RW-19630,Rob Williams,Corporate,Khách trung thành (VIP),3,5,4
+RW-19690,Robert Waldorf,Consumer,Giá trị cao – nguy cơ rời bỏ,3,2,4
+SA-20830,Sue Ann Reed,Consumer,Khách trung thành (VIP),3,5,5
+SB-20170,Sarah Bern,Consumer,Khách ngủ đông,2,1,2
+SB-20185,Sarah Brown,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,5
+SB-20290,Sean Braxton,Corporate,Khách trung thành (VIP),4,4,5
+SC-20020,Sam Craven,Consumer,Giá trị cao – nguy cơ rời bỏ,1,2,4
+SC-20050,Sample Company A,Home Office,Khách trung thành (VIP),4,5,5
+SC-20095,Sanjit Chand,Consumer,Giá trị cao – nguy cơ rời bỏ,1,5,5
+SC-20230,Scot Coram,Corporate,Giá trị cao – nguy cơ rời bỏ,2,2,5
+SC-20260,Scott Cohen,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,4
+SC-20305,Sean Christensen,Consumer,Khách trung thành (VIP),4,4,4
+SC-20380,Shahid Collister,Consumer,Khách trung thành (VIP),4,5,5
+SC-20440,Shaun Chance,Corporate,Khách trung thành (VIP),4,4,3
+SC-20575,Sonia Cooley,Consumer,Khách mới / tiềm năng,3,2,1
+SC-20680,Steve Carroll,Home Office,Khách ngủ đông,2,3,2
+SC-20695,Steve Chapman,Corporate,Khách trung thành (VIP),3,5,3
+SC-20725,Steven Cartwright,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,5
+SC-20770,Stewart Carmichael,Corporate,Khách trung thành (VIP),4,4,5
+SC-20800,Stuart Calhoun,Consumer,Khách mới / tiềm năng,4,2,1
+SC-20845,Sung Chung,Consumer,Khách ngủ đông,2,1,1
+SD-20485,Shirley Daniels,Home Office,Giá trị cao – nguy cơ rời bỏ,2,5,5
+SE-20110,Sanjit Engle,Consumer,Khách trung thành (VIP),5,5,5
+SF-20065,Sandra Flanagan,Consumer,Khách mới / tiềm năng,3,4,1
+SF-20200,Sarah Foster,Consumer,Khách trung thành (VIP),3,5,4
+SF-20965,Sylvia Foulston,Corporate,Khách trung thành (VIP),4,5,4
+SG-20080,Sandra Glassco,Consumer,Khách mới / tiềm năng,5,1,4
+SG-20470,Sheri Gordon,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,3
+SG-20605,Speros Goranitis,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,4
+SG-20890,Susan Gilcrest,Corporate,Khách ngủ đông,1,1,1
+SH-19975,Sally Hughsby,Corporate,Khách trung thành (VIP),4,5,4
+SH-20395,Shahid Hopkins,Consumer,Khách trung thành (VIP),5,5,3
+SH-20635,Stefanie Holloman,Corporate,Khách ngủ đông,1,1,3
+SJ-20125,Sanjit Jacobs,Home Office,Khách trung thành (VIP),3,5,4
+SJ-20215,Sarah Jordon,Consumer,Khách mới / tiềm năng,4,3,2
+SJ-20500,Shirley Jackson,Consumer,Khách ngủ đông,1,2,2
+SK-19990,Sally Knutson,Consumer,Khách mới / tiềm năng,5,1,1
+SL-20155,Sara Luxemburg,Home Office,Giá trị cao – nguy cơ rời bỏ,3,4,4
+SM-20005,Sally Matthias,Consumer,Khách ngủ đông,1,2,1
+SM-20320,Sean Miller,Home Office,Giá trị cao – nguy cơ rời bỏ,3,2,5
+SM-20905,Susan MacKendrick,Consumer,Khách ngủ đông,1,1,2
+SM-20950,Suzanne McNair,Corporate,Khách trung thành (VIP),5,5,5
+SN-20560,Skye Norling,Home Office,Giá trị cao – nguy cơ rời bỏ,2,3,3
+SN-20710,Steve Nguyen,Home Office,Giá trị cao – nguy cơ rời bỏ,3,4,4
+SO-20335,Sean O'Donnell,Consumer,Khách mới / tiềm năng,4,3,3
+SP-20545,Sibella Parks,Corporate,Khách ngủ đông,1,3,2
+SP-20620,Stefania Perrino,Corporate,Khách trung thành (VIP),4,5,5
+SP-20650,Stephanie Phelps,Corporate,Giá trị cao – nguy cơ rời bỏ,1,5,3
+SP-20860,Sung Pak,Corporate,Khách trung thành (VIP),3,5,5
+SP-20920,Susan Pistek,Consumer,Giá trị cao – nguy cơ rời bỏ,3,3,4
+SR-20425,Sharelle Roach,Home Office,Khách mới / tiềm năng,5,2,4
+SR-20740,Steven Roelle,Home Office,Giá trị cao – nguy cơ rời bỏ,2,4,5
+SS-20140,Saphhira Shifley,Corporate,Khách mới / tiềm năng,5,4,2
+SS-20410,Shahid Shariari,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,4
+SS-20515,Shirley Schmidt,Home Office,Khách ngủ đông,1,1,1
+SS-20590,Sonia Sunley,Consumer,Khách ngủ đông,1,3,1
+SS-20875,Sung Shariari,Consumer,Khách ngủ đông,2,2,2
+ST-20530,Shui Tom,Consumer,Khách ngủ đông,2,4,1
+SU-20665,Stephanie Ulpright,Home Office,Khách trung thành (VIP),5,4,3
+SV-20365,Seth Vernon,Consumer,Khách trung thành (VIP),3,5,5
+SV-20785,Stewart Visinsky,Consumer,Giá trị cao – nguy cơ rời bỏ,1,5,4
+SV-20815,Stuart Van,Corporate,Khách mới / tiềm năng,3,2,2
+SV-20935,Susan Vittorini,Consumer,Khách trung thành (VIP),5,4,3
+SW-20245,Scot Wooten,Consumer,Khách mới / tiềm năng,3,4,2
+SW-20275,Scott Williamson,Consumer,Khách mới / tiềm năng,4,3,3
+SW-20350,Sean Wendt,Home Office,Khách ngủ đông,2,1,2
+SW-20455,Shaun Weien,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,4
+SW-20755,Steven Ward,Corporate,Khách ngủ đông,1,1,1
+SZ-20035,Sam Zeldin,Home Office,Khách trung thành (VIP),4,5,4
+TA-21385,Tom Ashbrook,Home Office,Giá trị cao – nguy cơ rời bỏ,3,2,5
+TB-21055,Ted Butterfield,Consumer,Khách ngủ đông,2,2,2
+TB-21175,Thomas Boland,Corporate,Giá trị cao – nguy cơ rời bỏ,3,2,4
+TB-21190,Thomas Brumley,Home Office,Khách mới / tiềm năng,4,2,1
+TB-21250,Tim Brockman,Consumer,Giá trị cao – nguy cơ rời bỏ,1,4,2
+TB-21280,Toby Braunhardt,Consumer,Giá trị cao – nguy cơ rời bỏ,1,3,3
+TB-21355,Todd Boyes,Corporate,Khách ngủ đông,2,2,1
+TB-21400,Tom Boeckenhauer,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,5
+TB-21520,Tracy Blumstein,Consumer,Giá trị cao – nguy cơ rời bỏ,2,5,5
+TB-21595,Troy Blackwell,Consumer,Khách ngủ đông,1,2,2
+TB-21625,Trudy Brown,Consumer,Khách trung thành (VIP),4,5,4
+TC-20980,Tamara Chand,Corporate,Giá trị cao – nguy cơ rời bỏ,1,2,5
+TC-21145,Theresa Coyne,Corporate,Khách ngủ đông,2,1,2
+TC-21295,Toby Carlisle,Consumer,Khách trung thành (VIP),4,4,4
+TC-21475,Tony Chapman,Home Office,Giá trị cao – nguy cơ rời bỏ,2,5,2
+TC-21535,Tracy Collins,Home Office,Khách mới / tiềm năng,5,4,1
+TD-20995,Tamara Dahlen,Consumer,Khách trung thành (VIP),4,5,2
+TG-21310,Toby Gnade,Consumer,Giá trị cao – nguy cơ rời bỏ,1,3,4
+TG-21640,Trudy Glocke,Consumer,Khách ngủ đông,2,2,3
+TH-21100,Thea Hendricks,Consumer,Giá trị cao – nguy cơ rời bỏ,1,3,3
+TH-21115,Thea Hudgings,Corporate,Giá trị cao – nguy cơ rời bỏ,3,2,4
+TH-21235,Tiffany House,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,2
+TH-21550,Tracy Hopkins,Home Office,Giá trị cao – nguy cơ rời bỏ,3,4,4
+TM-21010,Tamara Manning,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,4
+TM-21490,Tony Molinari,Consumer,Khách ngủ đông,2,1,2
+TN-21040,Tanja Norvell,Home Office,Giá trị cao – nguy cơ rời bỏ,3,4,4
+TP-21130,Theone Pippenger,Consumer,Khách trung thành (VIP),5,5,5
+TP-21415,Tom Prescott,Consumer,Giá trị cao – nguy cơ rời bỏ,2,3,5
+TP-21565,Tracy Poddar,Corporate,Khách ngủ đông,1,2,3
+TR-21325,Toby Ritter,Consumer,Khách ngủ đông,2,3,1
+TS-21085,Thais Sissman,Consumer,Khách ngủ đông,1,1,1
+TS-21160,Theresa Swint,Corporate,Giá trị cao – nguy cơ rời bỏ,1,3,3
+TS-21205,Thomas Seio,Corporate,Giá trị cao – nguy cơ rời bỏ,2,4,5
+TS-21340,Toby Swindell,Consumer,Khách ngủ đông,1,3,2
+TS-21370,Todd Sumrall,Corporate,Khách trung thành (VIP),4,3,5
+TS-21430,Tom Stivers,Corporate,Giá trị cao – nguy cơ rời bỏ,2,3,3
+TS-21505,Tony Sayre,Consumer,Khách mới / tiềm năng,5,3,3
+TS-21610,Troy Staebel,Consumer,Giá trị cao – nguy cơ rời bỏ,3,4,4
+TS-21655,Trudy Schmidt,Consumer,Giá trị cao – nguy cơ rời bỏ,1,3,4
+TT-21070,Ted Trevino,Consumer,Khách trung thành (VIP),4,4,5
+TT-21220,Thomas Thornton,Consumer,Giá trị cao – nguy cơ rời bỏ,2,4,2
+TT-21265,Tim Taslimi,Corporate,Khách ngủ đông,1,1,1
+TT-21460,Tonja Turnell,Home Office,Khách trung thành (VIP),5,4,5
+TW-21025,Tamara Willingham,Home Office,Giá trị cao – nguy cơ rời bỏ,3,4,5
+TZ-21580,Tracy Zic,Consumer,Khách mới / tiềm năng,4,2,2
+VB-21745,Victoria Brennan,Corporate,Giá trị cao – nguy cơ rời bỏ,3,3,3
+VD-21670,Valerie Dominguez,Consumer,Giá trị cao – nguy cơ rời bỏ,1,3,5
+VF-21715,Vicky Freymann,Home Office,Khách mới / tiềm năng,5,3,1
+VG-21790,Vivek Gonzalez,Consumer,Khách ngủ đông,2,3,1
+VG-21805,Vivek Grady,Corporate,Khách ngủ đông,1,3,1
+VM-21685,Valerie Mitchum,Home Office,Giá trị cao – nguy cơ rời bỏ,3,4,3
+VM-21835,Vivian Mathis,Consumer,Khách ngủ đông,2,3,1
+VP-21730,Victor Preis,Home Office,Khách mới / tiềm năng,4,1,2
+VP-21760,Victoria Pisteka,Corporate,Giá trị cao – nguy cơ rời bỏ,3,4,4
+VS-21820,Vivek Sundaresam,Consumer,Khách ngủ đông,2,2,2
+VT-21700,Valerie Takahito,Home Office,Khách ngủ đông,1,1,2
+VW-21775,Victoria Wilson,Corporate,Khách trung thành (VIP),4,5,5
+WB-21850,William Brown,Consumer,Khách trung thành (VIP),5,5,5
+XP-21865,Xylona Preis,Consumer,Khách trung thành (VIP),4,5,3
+YC-21895,Yoseph Carroll,Corporate,Khách trung thành (VIP),5,3,5
+YS-21880,Yana Sorensen,Corporate,Khách trung thành (VIP),5,4,5
+ZC-21910,Zuschuss Carroll,Consumer,Khách trung thành (VIP),3,5,5
+ZD-21925,Zuschuss Donatelli,Consumer,Khách ngủ đông,2,3,2
